@@ -1,0 +1,16 @@
+{
+  "name": "pushx.core",
+  "license": "MIT",
+  "tags": [
+    "push"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {
+    "tink_core": ""
+  }
+}
