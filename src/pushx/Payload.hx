@@ -1,6 +1,6 @@
 package pushx;
 
-typedef Payload<Data> = {
+typedef Payload<Data:{}> = {
 	?notification:Notification,
 	?data:Data,
 }
